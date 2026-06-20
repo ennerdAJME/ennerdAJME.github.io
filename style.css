@@ -65,17 +65,17 @@
         background: transparent;
       }
 
-      .col-md-6 h1 {
+      .col-md-8 h1 {
         font-size: 5rem;
         color:#4C4949;
       }
 
-      .col-md-6 h2 {
+      .col-md-8 h2 {
         font-size: 3rem;
         color: #4a7c59;
       }
 
-      .col-md-6 p {
+      .col-md-8 p {
         font-size: 1.5rem;
         color: #4C4949;
       }
